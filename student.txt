@@ -1,0 +1,5 @@
+Student name: Joris Fortanier
+Student number: 700431
+Student class: HAINFVT1B
+URL student GitHub website: https://jorisfort.github.io
+URL student GitHub repository: https://github.com/JorisFort/jorisfort.github.io
